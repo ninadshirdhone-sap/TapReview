@@ -1,0 +1,6 @@
+{
+  "name": "Smart_Review.in - QR & NFC Business Standee",
+  "description": "Mobile-first QR and NFC business standee experience for smart Google reviews, Instagram follows, and WhatsApp VIP offers backed by Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
